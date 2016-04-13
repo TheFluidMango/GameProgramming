@@ -45,6 +45,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Helicopter\Scripts\Checkpoint.cs" />
+     <Compile Include="Assets\Helicopter\Scripts\CheckpointController.cs" />
+     <Compile Include="Assets\Helicopter\Scripts\ControlPanel.cs" />
+     <Compile Include="Assets\Helicopter\Scripts\FollowTargetCamera.cs" />
+     <Compile Include="Assets\Helicopter\Scripts\HeliRotorController.cs" />
+     <Compile Include="Assets\Helicopter\Scripts\HelicopterController.cs" />
+     <Compile Include="Assets\Helicopter\Scripts\LookAtTargetController.cs" />
+     <Compile Include="Assets\Helicopter\Scripts\PressedKeyCode.cs" />
+     <Compile Include="Assets\Helicopter\Scripts\UIGameController.cs" />
      <Compile Include="Assets\Scripts\Collector.cs" />
      <Compile Include="Assets\Scripts\Fire.cs" />
      <Compile Include="Assets\Scripts\Interact.cs" />
